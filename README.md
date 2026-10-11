@@ -1,1 +1,1 @@
-# basic-skeleton.typescript
+# TypeScript Basic Skeleton

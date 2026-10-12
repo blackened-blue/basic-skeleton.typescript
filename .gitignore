@@ -139,3 +139,13 @@ tools/gotestsum.exe.hash
 !packages/typescript/vendor/**/*.txt
 !tsc/testdata/submoduleAccepted.txt
 !tsc/testdata/submoduleTriaged.txt
+
+# Spec Kit lives on branch speckit (worktree at .speckit/)
+/.speckit/
+/.claude/skills
+/.kiro/skills
+/.specify
+/specs
+
+# Local Claude Code settings
+.claude/settings.local.json
